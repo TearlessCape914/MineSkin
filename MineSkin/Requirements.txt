@@ -4,7 +4,7 @@ Python Version: 3.9.2
 Python Modules and Versions:
   Numpy       --   1.20.1
   Pyautogui   --   0.9.52
-  Keyboard    --   0.13.5   #Optional
+  Keyboard    --   0.13.5
   Pygame      --   2.0.1
   Cv2         --   4.5.1.48
 
